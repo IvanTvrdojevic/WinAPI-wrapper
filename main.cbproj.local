@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/11 16:32:48.000.451,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/01/11 16:32:49.000.006,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:30:19.000.413,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:30:19.000.113,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/01/14 22:32:24.000.742,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.cpp=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:32:24.000.742,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.dfm=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/14 22:32:24.000.742,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.h=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/01/14 22:32:45.000.976,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasicPCH1.h=C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/01/14 22:32:52.000.746,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasic.cbproj=C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022/01/14 22:34:03.000.605,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.cpp=</Transaction>
+    <Transaction>2022/01/14 22:34:19.000.871,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\mainPCH1.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasicPCH1.h</Transaction>
+    <Transaction>2022/01/14 22:34:19.000.880,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.cbproj=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasic.cbproj</Transaction>
+    <Transaction>2022/01/14 22:34:19.000.956,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasicPCH1.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\mainPCH1.h</Transaction>
+    <Transaction>2022/01/14 22:34:19.000.965,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasic.cbproj=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.cbproj</Transaction>
+    <Transaction>2022/01/14 22:34:53.000.963,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\mainPCH1.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasicPCH1.h</Transaction>
+    <Transaction>2022/01/14 22:34:53.000.979,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\main.cbproj=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\testWinAPI_GUIBasic.cbproj</Transaction>
+    <Transaction>2022/01/14 22:36:17.000.068,=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:36:31.000.469,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\msgBoxHooked.cpp=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:36:31.000.469,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\msgBoxHooked.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.h</Transaction>
+    <Transaction>2022/01/14 22:39:11.000.013,=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:39:33.000.038,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\customDlg1.cpp=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:39:33.000.038,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\customDlg1.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.h</Transaction>
+    <Transaction>2022/01/14 22:39:57.000.995,=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:40:08.000.926,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\customDlg2.cpp=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:40:08.000.926,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\customDlg2.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.h</Transaction>
+    <Transaction>2022/01/14 22:49:29.000.583,=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:50:40.000.385,=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:50:53.000.365,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\utils.cpp=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.cpp</Transaction>
+    <Transaction>2022/01/14 22:50:53.000.365,E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\utils.h=E:\00_WORK\99_RAD\00_CPP\99_TEST\01_WinAPI\00_GUI\00_BASIC\Unit1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="mainPCH1.h"/>
+    <File Path="main.cpp"/>
+    <File Path="msgBoxHooked.cpp"/>
+    <File Path="msgBoxHooked.cpp"/>
+    <File Path="msgBoxHooked.h"/>
+    <File Path="customDlg1.cpp"/>
+    <File Path="customDlg1.cpp"/>
+    <File Path="customDlg1.h"/>
+    <File Path="customDlg2.cpp"/>
+    <File Path="customDlg2.cpp"/>
+    <File Path="customDlg2.h"/>
+    <File Path="utils.cpp"/>
+    <File Path="utils.cpp"/>
+    <File Path="utils.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
